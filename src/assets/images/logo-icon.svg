@@ -1,0 +1,17 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 图标部分 - 简化的食物与时钟结合 -->
+  <g>
+    <!-- 时钟外圈 -->
+    <circle cx="25" cy="25" r="23" stroke="#8C9E7E" stroke-width="3" fill="none"/>
+    
+    <!-- 食物图形 - 简化的碗 -->
+    <path d="M12,32 C12,22 38,22 38,32" stroke="#D4A57C" stroke-width="3" fill="none"/>
+    
+    <!-- 时钟指针 -->
+    <line x1="25" y1="25" x2="25" y2="12" stroke="#B3423A" stroke-width="2"/>
+    <line x1="25" y1="25" x2="35" y2="30" stroke="#B3423A" stroke-width="2"/>
+    
+    <!-- 中心点 -->
+    <circle cx="25" cy="25" r="2" fill="#4A2F2B"/>
+  </g>
+</svg> 
